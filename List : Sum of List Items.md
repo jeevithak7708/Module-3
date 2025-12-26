@@ -10,8 +10,12 @@ To write a Python program that calculates the **sum of all elements** in a list.
 
 ## 🧾 Program
 
-Add code here
+a=[1,6,4,7,8,9,5,3]
+print(sum(a))
 
 ## Output
+<img width="603" height="427" alt="image" src="https://github.com/user-attachments/assets/9f18916c-fe38-40e9-a0c9-ff14f2094968" />
+
 
 ## Result
+Thus the Python program that calculates the sum of all elements in a list is executed successfully.
